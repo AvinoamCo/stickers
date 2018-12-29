@@ -7,8 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0E6359A4203E148200805DEB /* StickerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6359A3203E148200805DEB /* StickerCell.swift */; };
-		8A0A6DCD1FE9F1CE00110AF2 /* UIAlertController+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */; };
+		088E4925BDF6C653A00EC233 /* 11_StairsRoomGangStickerPack_kermit.webp in Resources */ = {isa = PBXBuildFile; fileRef = E4674A9DBB4AE3FA0AE0D4E6 /* 11_StairsRoomGangStickerPack_kermit.webp */; };
+		08B145AD97359CD2B10029B5 /* 13_MemesStickerPack_jojo.webp in Resources */ = {isa = PBXBuildFile; fileRef = 384442059191E55B89C51BBB /* 13_MemesStickerPack_jojo.webp */; };
+		0AE0470FBEC448C6336BC885 /* 09_MemesStickerPack_angry.webp in Resources */ = {isa = PBXBuildFile; fileRef = 8C5048AB88B689D7AC3F174E /* 09_MemesStickerPack_angry.webp */; };
+		0C3548749FE6B58D497BA47B /* 01_NintendoStickerPack_kirby.webp in Resources */ = {isa = PBXBuildFile; fileRef = F9F34819B88B1BE9A4E03C35 /* 01_NintendoStickerPack_kirby.webp */; };
+		0FF24A48A90FFDFB7C416AF1 /* 02_SSBMStickerPack_falcoT-pose.webp in Resources */ = {isa = PBXBuildFile; fileRef = C98A4936BB587B6A7439B3EA /* 02_SSBMStickerPack_falcoT-pose.webp */; };
+		171B4FD5B4B18BAD250E7B9A /* 03_MemesStickerPack_squidward.webp in Resources */ = {isa = PBXBuildFile; fileRef = 35114FD8B52B471A177FF37F /* 03_MemesStickerPack_squidward.webp */; };
+		1B2B4E7EBA4E7DA36223F1D8 /* UIAlertController+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C614206B0B71C118D4E3D29 /* UIAlertController+Additions.swift */; };
+		1D9C424BA9CDEBBBFED9542D /* 03_SSBMStickerPack_peoplesChamp.webp in Resources */ = {isa = PBXBuildFile; fileRef = 54F7447FB88C3B0B38995B82 /* 03_SSBMStickerPack_peoplesChamp.webp */; };
+		1F71452C86BF12F609BD26A7 /* .DS_Store in Resources */ = {isa = PBXBuildFile; fileRef = E6F1453D90F6DDA3A4AFF1CE /* .DS_Store */; };
+		210D40C98B16FA3C6C15BE13 /* tray_peoplesChamp.png in Resources */ = {isa = PBXBuildFile; fileRef = FE1942228F6961086B28CF28 /* tray_peoplesChamp.png */; };
+		2349473592EDA7207693F90C /* 04_WaifusStickerPack_asuna.webp in Resources */ = {isa = PBXBuildFile; fileRef = A54F4DBAA088AD42D9CB3E40 /* 04_WaifusStickerPack_asuna.webp */; };
+		23DA413FB8CDA39938F154B9 /* 06_SSBMStickerPack_falconWhat.webp in Resources */ = {isa = PBXBuildFile; fileRef = 2A3B44EFA197630A3C5F4B6E /* 06_SSBMStickerPack_falconWhat.webp */; };
+		27854024B001ED8216908CCD /* 07_StairsRoomGangStickerPack_reemInWheels.webp in Resources */ = {isa = PBXBuildFile; fileRef = 69C14D35B76C4F331EDB919E /* 07_StairsRoomGangStickerPack_reemInWheels.webp */; };
+		2FB14A22BD92555929A9CDB1 /* 01_StairsRoomGangStickerPack_teacherIsrael.webp in Resources */ = {isa = PBXBuildFile; fileRef = 64A04966BB6824EA68B6EAFC /* 01_StairsRoomGangStickerPack_teacherIsrael.webp */; };
+		34BE4363A68AB760CA00456E /* 10_StairsRoomGangStickerPack_reemShtokShamen2.webp in Resources */ = {isa = PBXBuildFile; fileRef = 41FF4C1A9CF54983EDEF55F8 /* 10_StairsRoomGangStickerPack_reemShtokShamen2.webp */; };
+		3684430280866630497D8BF4 /* StickerPackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67344702A2B9290C0B9805B5 /* StickerPackViewController.swift */; };
+		371F433896BE49C1F36A6CFF /* 03_StairsRoomGangStickerPack_shabitz.webp in Resources */ = {isa = PBXBuildFile; fileRef = 82D1474398B7512ED870C0F7 /* 03_StairsRoomGangStickerPack_shabitz.webp */; };
+		41CE4E429AF82765FCC6EBA5 /* 18_MemesStickerPack_didYoMomBugsBunnieJr.webp in Resources */ = {isa = PBXBuildFile; fileRef = 8B5A485CA098AC077D4D97E1 /* 18_MemesStickerPack_didYoMomBugsBunnieJr.webp */; };
+		50764D11BB5D43BBFA31D812 /* 09_StairsRoomGangStickerPack_reemShtokShamen.webp in Resources */ = {isa = PBXBuildFile; fileRef = 32C2404DA1E84B463778271A /* 09_StairsRoomGangStickerPack_reemShtokShamen.webp */; };
+		57334811A9A90A35ECB33957 /* 05_MemesStickerPack_goku.webp in Resources */ = {isa = PBXBuildFile; fileRef = 4217453DB11D9FCB5408AE6F /* 05_MemesStickerPack_goku.webp */; };
+		5804482881DBE2FE1D0B2DC2 /* 04_MemesStickerPack_qualitySeal.webp in Resources */ = {isa = PBXBuildFile; fileRef = 7F19403C92D4B1C697880063 /* 04_MemesStickerPack_qualitySeal.webp */; };
+		616E47FE843E9B662F2C64EF /* 12_StairsRoomGangStickerPack_itzhak.webp in Resources */ = {isa = PBXBuildFile; fileRef = FFBD44788BFC21C0011A2CB5 /* 12_StairsRoomGangStickerPack_itzhak.webp */; };
+		67D74D3F9D5BF73A4395245C /* tray_honokaKousaka.png in Resources */ = {isa = PBXBuildFile; fileRef = B10C4C3593A80BC944C21B4E /* tray_honokaKousaka.png */; };
+		6B774D7F9A22F72CDDD84C9B /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA043E3A5BC34D5E17BF257 /* AllStickerPacksViewController.swift */; };
+		713C4B87B2604D906F0E6CA3 /* 16_MemesStickerPack_gayStickerVehicle.webp in Resources */ = {isa = PBXBuildFile; fileRef = 40754973AF0231A7D6D2639F /* 16_MemesStickerPack_gayStickerVehicle.webp */; };
+		7AC24F1EB2684E351CA71FD7 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8F4CC8A6D653995609E038 /* GradientView.swift */; };
+		7B2149E6BC71666B182A37E6 /* 08_MemesStickerPack_jebaited.webp in Resources */ = {isa = PBXBuildFile; fileRef = F43F4C4B857CFCEFBE4698C1 /* 08_MemesStickerPack_jebaited.webp */; };
+		7C1A48B5B5A1738BD7F6F450 /* 04_StairsRoomGangStickerPack_shaharRubin.webp in Resources */ = {isa = PBXBuildFile; fileRef = 6C154A82AA07467D0ACD4870 /* 04_StairsRoomGangStickerPack_shaharRubin.webp */; };
+		7CB64E38AFD9CC4A7CB8E516 /* tray_squidward.png in Resources */ = {isa = PBXBuildFile; fileRef = 34234B09B62711103577105D /* tray_squidward.png */; };
+		82F8465A8AC6C57CC7CA6BE9 /* 07_SSBMStickerPack_foxWhat.webp in Resources */ = {isa = PBXBuildFile; fileRef = 8DD344C6BE9BDBB643F50412 /* 07_SSBMStickerPack_foxWhat.webp */; };
+		850C4B28ABE55E93D80AC883 /* 06_MemesStickerPack_empty.webp in Resources */ = {isa = PBXBuildFile; fileRef = E8B44C21A6A3CEC1B7E264CB /* 06_MemesStickerPack_empty.webp */; };
+		866E4FDA99B93F55B33CEB00 /* 01_WaifusStickerPack_eromangaSensei.webp in Resources */ = {isa = PBXBuildFile; fileRef = CDC24BE191A5207E491B8403 /* 01_WaifusStickerPack_eromangaSensei.webp */; };
+		88D64539B8766D0A75075447 /* 03_NintendoStickerPack_reggieFace.webp in Resources */ = {isa = PBXBuildFile; fileRef = 0B8743C3BDF7DACACB1746BA /* 03_NintendoStickerPack_reggieFace.webp */; };
 		8A18E2EE1FB3B47D0082201D /* YYImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E51FB3B47B0082201D /* YYImage.m */; };
 		8A18E2EF1FB3B47D0082201D /* YYAnimatedImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E81FB3B47C0082201D /* YYAnimatedImageView.m */; };
 		8A18E2F01FB3B47D0082201D /* YYFrameImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2EA1FB3B47C0082201D /* YYFrameImage.m */; };
@@ -21,67 +52,86 @@
 		8A22EE091F9A9F40003A7F21 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A22EE071F9A9F40003A7F21 /* Main.storyboard */; };
 		8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A22EE0A1F9A9F40003A7F21 /* Assets.xcassets */; };
 		8A22EE0E1F9A9F40003A7F21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A22EE0C1F9A9F40003A7F21 /* LaunchScreen.storyboard */; };
-		8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8A27F11B1FD73DD0001B2BBD /* StickerPackTableViewCell.xib */; };
-		8A27F11E1FD73DE2001B2BBD /* StickerPackTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A27F11D1FD73DE2001B2BBD /* StickerPackTableViewCell.swift */; };
-		8A27F1201FD7444B001B2BBD /* StickerPackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A27F11F1FD7444B001B2BBD /* StickerPackViewController.swift */; };
-		8A27F1221FD76937001B2BBD /* AquaButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A27F1211FD76937001B2BBD /* AquaButton.swift */; };
-		8A27F12B1FD9E025001B2BBD /* StickerPackInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A27F12A1FD9E025001B2BBD /* StickerPackInfoViewController.swift */; };
-		8A27F12D1FD9E718001B2BBD /* SecondaryTextTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A27F12C1FD9E718001B2BBD /* SecondaryTextTableViewCell.swift */; };
-		8A27F12F1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8A27F12E1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib */; };
-		8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8A27F1301FD9E987001B2BBD /* LinkTableViewCell.xib */; };
-		8A27F1331FD9EA08001B2BBD /* LinkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A27F1321FD9EA08001B2BBD /* LinkTableViewCell.swift */; };
 		8A40BE651FB122B3003AD704 /* StickerPack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A40BE641FB122B3003AD704 /* StickerPack.swift */; };
-		8A6001CC20298225001EC448 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6001CB20298225001EC448 /* GradientView.swift */; };
 		8A8D4A7A1FB291290078C4AF /* Interoperability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8D4A791FB291290078C4AF /* Interoperability.swift */; };
 		8AB5951920C1FC130076625E /* Sticker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5951820C1FC130076625E /* Sticker.swift */; };
 		8AB5951B20C1FC440076625E /* ImageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5951A20C1FC440076625E /* ImageData.swift */; };
 		8ABEBD8421029767005F348C /* WebP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ABEBD8321029766005F348C /* WebP.framework */; };
-		8AC234892146F63D00E3667B /* tray_Cuppy.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234882146F63D00E3667B /* tray_Cuppy.png */; };
-		8AC234A42146F65500E3667B /* 06_Cuppy_love.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348B2146F65000E3667B /* 06_Cuppy_love.png */; };
-		8AC234A52146F65500E3667B /* 09_Cuppy_lovewithcookie.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348C2146F65000E3667B /* 09_Cuppy_lovewithcookie.png */; };
-		8AC234A62146F65500E3667B /* 15_Cuppy_bluescreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348D2146F65100E3667B /* 15_Cuppy_bluescreen.png */; };
-		8AC234A72146F65500E3667B /* 10_Cuppy_hmm.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348E2146F65100E3667B /* 10_Cuppy_hmm.png */; };
-		8AC234A82146F65500E3667B /* 07_Cuppy_hate.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348F2146F65100E3667B /* 07_Cuppy_hate.png */; };
-		8AC234A92146F65500E3667B /* 14_Cuppy_weird.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234902146F65100E3667B /* 14_Cuppy_weird.png */; };
-		8AC234AA2146F65500E3667B /* 22_Cuppy_bye.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234912146F65100E3667B /* 22_Cuppy_bye.png */; };
-		8AC234AB2146F65500E3667B /* 12_Cuppy_angry.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234922146F65100E3667B /* 12_Cuppy_angry.png */; };
-		8AC234AC2146F65500E3667B /* 23_Cuppy_greentea.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234932146F65100E3667B /* 23_Cuppy_greentea.png */; };
-		8AC234AD2146F65500E3667B /* 01_Cuppy_smile.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234942146F65100E3667B /* 01_Cuppy_smile.png */; };
-		8AC234AE2146F65500E3667B /* 21_Cuppy_hi.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234952146F65200E3667B /* 21_Cuppy_hi.png */; };
-		8AC234AF2146F65500E3667B /* 02_Cuppy_lol.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234962146F65200E3667B /* 02_Cuppy_lol.png */; };
-		8AC234B02146F65500E3667B /* 03_Cuppy_rofl.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234972146F65200E3667B /* 03_Cuppy_rofl.png */; };
-		8AC234B12146F65500E3667B /* 08_Cuppy_lovewithmug.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234982146F65200E3667B /* 08_Cuppy_lovewithmug.png */; };
-		8AC234B22146F65500E3667B /* 24_Cuppy_phone.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234992146F65200E3667B /* 24_Cuppy_phone.png */; };
-		8AC234B32146F65500E3667B /* 13_Cuppy_curious.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349A2146F65200E3667B /* 13_Cuppy_curious.png */; };
-		8AC234B42146F65500E3667B /* 04_Cuppy_sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349B2146F65300E3667B /* 04_Cuppy_sad.png */; };
-		8AC234B52146F65500E3667B /* 16_Cuppy_angry.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349C2146F65300E3667B /* 16_Cuppy_angry.png */; };
-		8AC234B62146F65500E3667B /* 25_Cuppy_battery.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349D2146F65300E3667B /* 25_Cuppy_battery.png */; };
-		8AC234B72146F65500E3667B /* 18_Cuppy_workhard.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349E2146F65400E3667B /* 18_Cuppy_workhard.png */; };
-		8AC234B82146F65500E3667B /* 05_Cuppy_cry.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349F2146F65400E3667B /* 05_Cuppy_cry.png */; };
-		8AC234B92146F65500E3667B /* 19_Cuppy_shine.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234A02146F65400E3667B /* 19_Cuppy_shine.png */; };
-		8AC234BA2146F65500E3667B /* 20_Cuppy_disgusting.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234A12146F65400E3667B /* 20_Cuppy_disgusting.png */; };
-		8AC234BB2146F65500E3667B /* 17_Cuppy_tired.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234A22146F65400E3667B /* 17_Cuppy_tired.png */; };
-		8AC235042149FA3000E3667B /* 11_Cuppy_upset.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC235032149FA2F00E3667B /* 11_Cuppy_upset.png */; };
 		8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB6A971FE9CB7700A564BB /* Limits.swift */; };
-		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
+		8C8945B2A0D955F4CDD50DA5 /* 14_StairsRoomGangStickerPack_reemReallyNigga.webp in Resources */ = {isa = PBXBuildFile; fileRef = 9D104028A25ED8C1956299ED /* 14_StairsRoomGangStickerPack_reemReallyNigga.webp */; };
+		956249B9AD5330AC31E3C92A /* 13_StairsRoomGangStickerPack_teacherIsrael2.webp in Resources */ = {isa = PBXBuildFile; fileRef = CCE34065B75C1E7CBA264D7B /* 13_StairsRoomGangStickerPack_teacherIsrael2.webp */; };
+		95AF4324A3398052F92D8D16 /* SecondaryTextTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 99B1439CA73579159F31BF52 /* SecondaryTextTableViewCell.xib */; };
+		A06C4D1490DE2753F02EB601 /* 05_SSBMStickerPack_hungrybox.webp in Resources */ = {isa = PBXBuildFile; fileRef = 7EE2479BB835A2E0625EB825 /* 05_SSBMStickerPack_hungrybox.webp */; };
+		A176496D8AED3CEB5321D743 /* 11_MemesStickerPack_smilingSegev.webp in Resources */ = {isa = PBXBuildFile; fileRef = B1C64E438AC56F98679A7042 /* 11_MemesStickerPack_smilingSegev.webp */; };
+		A8264A0EBBB2FC50475F733D /* 04_NintendoStickerPack_reggieSigh.webp in Resources */ = {isa = PBXBuildFile; fileRef = 29314686BDC03FF8A7962854 /* 04_NintendoStickerPack_reggieSigh.webp */; };
+		B1784D16B0EEFB42ACED4B6E /* 02_NintendoStickerPack_yoshi.webp in Resources */ = {isa = PBXBuildFile; fileRef = B89147DDBE073902E2F32045 /* 02_NintendoStickerPack_yoshi.webp */; };
+		BA744A62A85842081E63FCEB /* LinkTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0CD34057B7411E1050BDA481 /* LinkTableViewCell.xib */; };
+		BA754265A390428740A9EFC5 /* StickerPackTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F00E4756B4A58DACE1BDF51A /* StickerPackTableViewCell.xib */; };
+		BBBC466AA082311F705C0F7A /* 06_StairsRoomGangStickerPack_nataam.webp in Resources */ = {isa = PBXBuildFile; fileRef = 8104498793D676973C4DBD23 /* 06_StairsRoomGangStickerPack_nataam.webp */; };
+		C3A147FBB4A75FD81FFC9E14 /* 04_SSBMStickerPack_zain.webp in Resources */ = {isa = PBXBuildFile; fileRef = B7C14E4CA8510817CAD0A208 /* 04_SSBMStickerPack_zain.webp */; };
+		C3BC4F8A9E3CC8A4D119D10C /* 02_StairsRoomGangStickerPack_reem.webp in Resources */ = {isa = PBXBuildFile; fileRef = 23364D7D8D6EFC81ADBD262D /* 02_StairsRoomGangStickerPack_reem.webp */; };
+		C4B74D51B44E88C44C6341E1 /* 02_MemesStickerPack_noAnime.webp in Resources */ = {isa = PBXBuildFile; fileRef = 51E34688BA3A76D1DEDBAC6F /* 02_MemesStickerPack_noAnime.webp */; };
+		C6AA45BB9B7AD769BD0B96F7 /* StickerPackTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3F4F9BA4911A5FD889FC21 /* StickerPackTableViewCell.swift */; };
+		C7ED4594A7C46E27F6E7586B /* 03_WaifusStickerPack_honokaKousaka.webp in Resources */ = {isa = PBXBuildFile; fileRef = 508649F6B0CB2C65ABA8296F /* 03_WaifusStickerPack_honokaKousaka.webp */; };
+		CA8E45BD82964B31BFB30EA1 /* StickerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12EE4E7192F4C19884B629E7 /* StickerCell.swift */; };
+		CAFA4B218B9A8E9B59E07E2C /* 14_MemesStickerPack_friedCowboy.webp in Resources */ = {isa = PBXBuildFile; fileRef = 542848378DB2BFA603CE8DBA /* 14_MemesStickerPack_friedCowboy.webp */; };
+		CB61407A95F1406420CB02D6 /* StickerPackInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B24755AA2DD782460925C3 /* StickerPackInfoViewController.swift */; };
+		CCEE48CC953E52460392CE54 /* 01_SSBMStickerPack_foxT-pose.webp in Resources */ = {isa = PBXBuildFile; fileRef = 58344FD6B9C81B1BAE03CB65 /* 01_SSBMStickerPack_foxT-pose.webp */; };
+		CDA045B197764B706CD7EE69 /* tray_reem.png in Resources */ = {isa = PBXBuildFile; fileRef = 50CD460685E769D0E5BB32A3 /* tray_reem.png */; };
+		D18540EFA1427315867FAC41 /* 12_MemesStickerPack_AJ.webp in Resources */ = {isa = PBXBuildFile; fileRef = 5077429BABBE28964F169C93 /* 12_MemesStickerPack_AJ.webp */; };
+		D2DC4B218435C1B346BA75C7 /* 10_MemesStickerPack_shtokShamen.webp in Resources */ = {isa = PBXBuildFile; fileRef = B53E4C36B8DFC496A94D5D9A /* 10_MemesStickerPack_shtokShamen.webp */; };
+		DA9F46AF9661C1BC3AC3735F /* 15_MemesStickerPack_friedPinokio.webp in Resources */ = {isa = PBXBuildFile; fileRef = 66FD47128C5DDA1151FDE6DB /* 15_MemesStickerPack_friedPinokio.webp */; };
+		DB2443F8A0D2859844A5A1F5 /* 17_MemesStickerPack_deletDisCS.webp in Resources */ = {isa = PBXBuildFile; fileRef = 01714772B4AB8C0B76FEBD86 /* 17_MemesStickerPack_deletDisCS.webp */; };
+		DE0C4F87B591E7578A4545FD /* SecondaryTextTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE4050845C7355AE75A93C /* SecondaryTextTableViewCell.swift */; };
+		E2154771AEA3F7346B1E46BD /* LinkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96CD4F5A8D494AF6EF1CDD7D /* LinkTableViewCell.swift */; };
+		E36D490F99E81E656CA4CAB4 /* tray_reggieFace.png in Resources */ = {isa = PBXBuildFile; fileRef = 230F49A38A0103361A9DC9A8 /* tray_reggieFace.png */; };
+		E57B43059BE74B289891894C /* 02_WaifusStickerPack_kurosawaRuby.webp in Resources */ = {isa = PBXBuildFile; fileRef = 5F9F4948B0C7B8BFBEBE3414 /* 02_WaifusStickerPack_kurosawaRuby.webp */; };
+		E9A24D4883FD4B3C51FD5857 /* 01_MemesStickerPack_dailyTannieSpecial.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93F948A0AAD63BE168F25121 /* 01_MemesStickerPack_dailyTannieSpecial.webp */; };
+		EA284A0BBA57A3A16BCE59A4 /* AquaButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C663438787F7D71E7C5BE961 /* AquaButton.swift */; };
+		EC624736BCE1DC1D0CC4AA85 /* 08_StairsRoomGangStickerPack_reemDown.webp in Resources */ = {isa = PBXBuildFile; fileRef = B55A438EAA0E4C3A2E739F63 /* 08_StairsRoomGangStickerPack_reemDown.webp */; };
+		EEB24F62B3E6378EF2E7057D /* 07_MemesStickerPack_indianVirgin.webp in Resources */ = {isa = PBXBuildFile; fileRef = 81B44C7EBCD8BC9046C44E5F /* 07_MemesStickerPack_indianVirgin.webp */; };
+		F1B2414FBB892801732C0018 /* 05_StairsRoomGangStickerPack_shabitzBuyMoreCards.webp in Resources */ = {isa = PBXBuildFile; fileRef = 296144C6926DB61AAC29F09D /* 05_StairsRoomGangStickerPack_shabitzBuyMoreCards.webp */; };
+		F35344889E1B326D3C5EB156 /* 08_SSBMStickerPack_chillindude.webp in Resources */ = {isa = PBXBuildFile; fileRef = 58234B86A9E808A8578BBA2E /* 08_SSBMStickerPack_chillindude.webp */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXCopyFilesBuildPhase section */
-		8A18E32F1FBA3CC80082201D /* Embed Frameworks */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-			);
-			name = "Embed Frameworks";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
-
 /* Begin PBXFileReference section */
-		0E6359A3203E148200805DEB /* StickerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickerCell.swift; sourceTree = "<group>"; };
-		8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertController+Additions.swift"; sourceTree = "<group>"; };
+		01714772B4AB8C0B76FEBD86 /* 17_MemesStickerPack_deletDisCS.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 17_MemesStickerPack_deletDisCS.webp; path = WAStickersThirdParty/Stickers/Memes/17_MemesStickerPack_deletDisCS.webp; sourceTree = SOURCE_ROOT; };
+		0B8743C3BDF7DACACB1746BA /* 03_NintendoStickerPack_reggieFace.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 03_NintendoStickerPack_reggieFace.webp; path = WAStickersThirdParty/Stickers/Nintendo/03_NintendoStickerPack_reggieFace.webp; sourceTree = SOURCE_ROOT; };
+		0CD34057B7411E1050BDA481 /* LinkTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = LinkTableViewCell.xib; path = ./WAStickersThirdParty/UI/LinkTableViewCell.xib; sourceTree = SOURCE_ROOT; };
+		12EE4E7192F4C19884B629E7 /* StickerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StickerCell.swift; path = ./WAStickersThirdParty/UI/StickerCell.swift; sourceTree = SOURCE_ROOT; };
+		230F49A38A0103361A9DC9A8 /* tray_reggieFace.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tray_reggieFace.png; path = WAStickersThirdParty/Stickers/Nintendo/tray_reggieFace.png; sourceTree = SOURCE_ROOT; };
+		23364D7D8D6EFC81ADBD262D /* 02_StairsRoomGangStickerPack_reem.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 02_StairsRoomGangStickerPack_reem.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/02_StairsRoomGangStickerPack_reem.webp"; sourceTree = SOURCE_ROOT; };
+		29314686BDC03FF8A7962854 /* 04_NintendoStickerPack_reggieSigh.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 04_NintendoStickerPack_reggieSigh.webp; path = WAStickersThirdParty/Stickers/Nintendo/04_NintendoStickerPack_reggieSigh.webp; sourceTree = SOURCE_ROOT; };
+		296144C6926DB61AAC29F09D /* 05_StairsRoomGangStickerPack_shabitzBuyMoreCards.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 05_StairsRoomGangStickerPack_shabitzBuyMoreCards.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/05_StairsRoomGangStickerPack_shabitzBuyMoreCards.webp"; sourceTree = SOURCE_ROOT; };
+		2A3B44EFA197630A3C5F4B6E /* 06_SSBMStickerPack_falconWhat.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 06_SSBMStickerPack_falconWhat.webp; path = WAStickersThirdParty/Stickers/SSBM/06_SSBMStickerPack_falconWhat.webp; sourceTree = SOURCE_ROOT; };
+		2C614206B0B71C118D4E3D29 /* UIAlertController+Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "UIAlertController+Additions.swift"; path = "./WAStickersThirdParty/UI/UIAlertController+Additions.swift"; sourceTree = SOURCE_ROOT; };
+		32C2404DA1E84B463778271A /* 09_StairsRoomGangStickerPack_reemShtokShamen.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 09_StairsRoomGangStickerPack_reemShtokShamen.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/09_StairsRoomGangStickerPack_reemShtokShamen.webp"; sourceTree = SOURCE_ROOT; };
+		34234B09B62711103577105D /* tray_squidward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tray_squidward.png; path = WAStickersThirdParty/Stickers/Memes/tray_squidward.png; sourceTree = SOURCE_ROOT; };
+		35114FD8B52B471A177FF37F /* 03_MemesStickerPack_squidward.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 03_MemesStickerPack_squidward.webp; path = WAStickersThirdParty/Stickers/Memes/03_MemesStickerPack_squidward.webp; sourceTree = SOURCE_ROOT; };
+		384442059191E55B89C51BBB /* 13_MemesStickerPack_jojo.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 13_MemesStickerPack_jojo.webp; path = WAStickersThirdParty/Stickers/Memes/13_MemesStickerPack_jojo.webp; sourceTree = SOURCE_ROOT; };
+		40754973AF0231A7D6D2639F /* 16_MemesStickerPack_gayStickerVehicle.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 16_MemesStickerPack_gayStickerVehicle.webp; path = WAStickersThirdParty/Stickers/Memes/16_MemesStickerPack_gayStickerVehicle.webp; sourceTree = SOURCE_ROOT; };
+		41FF4C1A9CF54983EDEF55F8 /* 10_StairsRoomGangStickerPack_reemShtokShamen2.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 10_StairsRoomGangStickerPack_reemShtokShamen2.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/10_StairsRoomGangStickerPack_reemShtokShamen2.webp"; sourceTree = SOURCE_ROOT; };
+		4217453DB11D9FCB5408AE6F /* 05_MemesStickerPack_goku.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 05_MemesStickerPack_goku.webp; path = WAStickersThirdParty/Stickers/Memes/05_MemesStickerPack_goku.webp; sourceTree = SOURCE_ROOT; };
+		5077429BABBE28964F169C93 /* 12_MemesStickerPack_AJ.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 12_MemesStickerPack_AJ.webp; path = WAStickersThirdParty/Stickers/Memes/12_MemesStickerPack_AJ.webp; sourceTree = SOURCE_ROOT; };
+		508649F6B0CB2C65ABA8296F /* 03_WaifusStickerPack_honokaKousaka.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 03_WaifusStickerPack_honokaKousaka.webp; path = WAStickersThirdParty/Stickers/Waifus/03_WaifusStickerPack_honokaKousaka.webp; sourceTree = SOURCE_ROOT; };
+		50CD460685E769D0E5BB32A3 /* tray_reem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tray_reem.png; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/tray_reem.png"; sourceTree = SOURCE_ROOT; };
+		51E34688BA3A76D1DEDBAC6F /* 02_MemesStickerPack_noAnime.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 02_MemesStickerPack_noAnime.webp; path = WAStickersThirdParty/Stickers/Memes/02_MemesStickerPack_noAnime.webp; sourceTree = SOURCE_ROOT; };
+		542848378DB2BFA603CE8DBA /* 14_MemesStickerPack_friedCowboy.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 14_MemesStickerPack_friedCowboy.webp; path = WAStickersThirdParty/Stickers/Memes/14_MemesStickerPack_friedCowboy.webp; sourceTree = SOURCE_ROOT; };
+		54F7447FB88C3B0B38995B82 /* 03_SSBMStickerPack_peoplesChamp.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 03_SSBMStickerPack_peoplesChamp.webp; path = WAStickersThirdParty/Stickers/SSBM/03_SSBMStickerPack_peoplesChamp.webp; sourceTree = SOURCE_ROOT; };
+		58234B86A9E808A8578BBA2E /* 08_SSBMStickerPack_chillindude.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 08_SSBMStickerPack_chillindude.webp; path = WAStickersThirdParty/Stickers/SSBM/08_SSBMStickerPack_chillindude.webp; sourceTree = SOURCE_ROOT; };
+		58344FD6B9C81B1BAE03CB65 /* 01_SSBMStickerPack_foxT-pose.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = "01_SSBMStickerPack_foxT-pose.webp"; path = "WAStickersThirdParty/Stickers/SSBM/01_SSBMStickerPack_foxT-pose.webp"; sourceTree = SOURCE_ROOT; };
+		5F9F4948B0C7B8BFBEBE3414 /* 02_WaifusStickerPack_kurosawaRuby.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 02_WaifusStickerPack_kurosawaRuby.webp; path = WAStickersThirdParty/Stickers/Waifus/02_WaifusStickerPack_kurosawaRuby.webp; sourceTree = SOURCE_ROOT; };
+		64A04966BB6824EA68B6EAFC /* 01_StairsRoomGangStickerPack_teacherIsrael.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 01_StairsRoomGangStickerPack_teacherIsrael.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/01_StairsRoomGangStickerPack_teacherIsrael.webp"; sourceTree = SOURCE_ROOT; };
+		66FD47128C5DDA1151FDE6DB /* 15_MemesStickerPack_friedPinokio.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 15_MemesStickerPack_friedPinokio.webp; path = WAStickersThirdParty/Stickers/Memes/15_MemesStickerPack_friedPinokio.webp; sourceTree = SOURCE_ROOT; };
+		67344702A2B9290C0B9805B5 /* StickerPackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StickerPackViewController.swift; path = ./WAStickersThirdParty/UI/StickerPackViewController.swift; sourceTree = SOURCE_ROOT; };
+		69C14D35B76C4F331EDB919E /* 07_StairsRoomGangStickerPack_reemInWheels.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 07_StairsRoomGangStickerPack_reemInWheels.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/07_StairsRoomGangStickerPack_reemInWheels.webp"; sourceTree = SOURCE_ROOT; };
+		6C154A82AA07467D0ACD4870 /* 04_StairsRoomGangStickerPack_shaharRubin.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 04_StairsRoomGangStickerPack_shaharRubin.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/04_StairsRoomGangStickerPack_shaharRubin.webp"; sourceTree = SOURCE_ROOT; };
+		7BA043E3A5BC34D5E17BF257 /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AllStickerPacksViewController.swift; path = ./WAStickersThirdParty/UI/AllStickerPacksViewController.swift; sourceTree = SOURCE_ROOT; };
+		7EE2479BB835A2E0625EB825 /* 05_SSBMStickerPack_hungrybox.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 05_SSBMStickerPack_hungrybox.webp; path = WAStickersThirdParty/Stickers/SSBM/05_SSBMStickerPack_hungrybox.webp; sourceTree = SOURCE_ROOT; };
+		7F19403C92D4B1C697880063 /* 04_MemesStickerPack_qualitySeal.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 04_MemesStickerPack_qualitySeal.webp; path = WAStickersThirdParty/Stickers/Memes/04_MemesStickerPack_qualitySeal.webp; sourceTree = SOURCE_ROOT; };
+		8104498793D676973C4DBD23 /* 06_StairsRoomGangStickerPack_nataam.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 06_StairsRoomGangStickerPack_nataam.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/06_StairsRoomGangStickerPack_nataam.webp"; sourceTree = SOURCE_ROOT; };
+		81B44C7EBCD8BC9046C44E5F /* 07_MemesStickerPack_indianVirgin.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 07_MemesStickerPack_indianVirgin.webp; path = WAStickersThirdParty/Stickers/Memes/07_MemesStickerPack_indianVirgin.webp; sourceTree = SOURCE_ROOT; };
+		82D1474398B7512ED870C0F7 /* 03_StairsRoomGangStickerPack_shabitz.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 03_StairsRoomGangStickerPack_shabitz.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/03_StairsRoomGangStickerPack_shabitz.webp"; sourceTree = SOURCE_ROOT; };
 		8A18E2E31FB3B47A0082201D /* WAStickersThirdParty-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WAStickersThirdParty-Bridging-Header.h"; sourceTree = "<group>"; };
 		8A18E2E41FB3B47B0082201D /* YYImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYImage.h; sourceTree = "<group>"; };
 		8A18E2E51FB3B47B0082201D /* YYImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYImage.m; sourceTree = "<group>"; };
@@ -108,51 +158,44 @@
 		8A22EE0A1F9A9F40003A7F21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A22EE0D1F9A9F40003A7F21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A22EE0F1F9A9F40003A7F21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8A27F11B1FD73DD0001B2BBD /* StickerPackTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StickerPackTableViewCell.xib; sourceTree = "<group>"; };
-		8A27F11D1FD73DE2001B2BBD /* StickerPackTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickerPackTableViewCell.swift; sourceTree = "<group>"; };
-		8A27F11F1FD7444B001B2BBD /* StickerPackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickerPackViewController.swift; sourceTree = "<group>"; };
-		8A27F1211FD76937001B2BBD /* AquaButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AquaButton.swift; sourceTree = "<group>"; };
-		8A27F12A1FD9E025001B2BBD /* StickerPackInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickerPackInfoViewController.swift; sourceTree = "<group>"; };
-		8A27F12C1FD9E718001B2BBD /* SecondaryTextTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondaryTextTableViewCell.swift; sourceTree = "<group>"; };
-		8A27F12E1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SecondaryTextTableViewCell.xib; sourceTree = "<group>"; };
-		8A27F1301FD9E987001B2BBD /* LinkTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LinkTableViewCell.xib; sourceTree = "<group>"; };
-		8A27F1321FD9EA08001B2BBD /* LinkTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkTableViewCell.swift; sourceTree = "<group>"; };
 		8A40BE491FB100C4003AD704 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		8A40BE4A1FB100CB003AD704 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		8A40BE641FB122B3003AD704 /* StickerPack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickerPack.swift; sourceTree = "<group>"; };
-		8A6001CB20298225001EC448 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		8A8D4A791FB291290078C4AF /* Interoperability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interoperability.swift; sourceTree = "<group>"; };
 		8AB5951820C1FC130076625E /* Sticker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sticker.swift; sourceTree = "<group>"; };
 		8AB5951A20C1FC440076625E /* ImageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageData.swift; sourceTree = "<group>"; };
 		8ABEBD8321029766005F348C /* WebP.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebP.framework; sourceTree = "<group>"; };
-		8AC234882146F63D00E3667B /* tray_Cuppy.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = tray_Cuppy.png; sourceTree = "<group>"; };
-		8AC2348B2146F65000E3667B /* 06_Cuppy_love.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 06_Cuppy_love.png; sourceTree = "<group>"; };
-		8AC2348C2146F65000E3667B /* 09_Cuppy_lovewithcookie.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 09_Cuppy_lovewithcookie.png; sourceTree = "<group>"; };
-		8AC2348D2146F65100E3667B /* 15_Cuppy_bluescreen.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 15_Cuppy_bluescreen.png; sourceTree = "<group>"; };
-		8AC2348E2146F65100E3667B /* 10_Cuppy_hmm.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 10_Cuppy_hmm.png; sourceTree = "<group>"; };
-		8AC2348F2146F65100E3667B /* 07_Cuppy_hate.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 07_Cuppy_hate.png; sourceTree = "<group>"; };
-		8AC234902146F65100E3667B /* 14_Cuppy_weird.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 14_Cuppy_weird.png; sourceTree = "<group>"; };
-		8AC234912146F65100E3667B /* 22_Cuppy_bye.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 22_Cuppy_bye.png; sourceTree = "<group>"; };
-		8AC234922146F65100E3667B /* 12_Cuppy_angry.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 12_Cuppy_angry.png; sourceTree = "<group>"; };
-		8AC234932146F65100E3667B /* 23_Cuppy_greentea.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 23_Cuppy_greentea.png; sourceTree = "<group>"; };
-		8AC234942146F65100E3667B /* 01_Cuppy_smile.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 01_Cuppy_smile.png; sourceTree = "<group>"; };
-		8AC234952146F65200E3667B /* 21_Cuppy_hi.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 21_Cuppy_hi.png; sourceTree = "<group>"; };
-		8AC234962146F65200E3667B /* 02_Cuppy_lol.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 02_Cuppy_lol.png; sourceTree = "<group>"; };
-		8AC234972146F65200E3667B /* 03_Cuppy_rofl.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 03_Cuppy_rofl.png; sourceTree = "<group>"; };
-		8AC234982146F65200E3667B /* 08_Cuppy_lovewithmug.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 08_Cuppy_lovewithmug.png; sourceTree = "<group>"; };
-		8AC234992146F65200E3667B /* 24_Cuppy_phone.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 24_Cuppy_phone.png; sourceTree = "<group>"; };
-		8AC2349A2146F65200E3667B /* 13_Cuppy_curious.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 13_Cuppy_curious.png; sourceTree = "<group>"; };
-		8AC2349B2146F65300E3667B /* 04_Cuppy_sad.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 04_Cuppy_sad.png; sourceTree = "<group>"; };
-		8AC2349C2146F65300E3667B /* 16_Cuppy_angry.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 16_Cuppy_angry.png; sourceTree = "<group>"; };
-		8AC2349D2146F65300E3667B /* 25_Cuppy_battery.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 25_Cuppy_battery.png; sourceTree = "<group>"; };
-		8AC2349E2146F65400E3667B /* 18_Cuppy_workhard.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 18_Cuppy_workhard.png; sourceTree = "<group>"; };
-		8AC2349F2146F65400E3667B /* 05_Cuppy_cry.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 05_Cuppy_cry.png; sourceTree = "<group>"; };
-		8AC234A02146F65400E3667B /* 19_Cuppy_shine.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 19_Cuppy_shine.png; sourceTree = "<group>"; };
-		8AC234A12146F65400E3667B /* 20_Cuppy_disgusting.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 20_Cuppy_disgusting.png; sourceTree = "<group>"; };
-		8AC234A22146F65400E3667B /* 17_Cuppy_tired.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 17_Cuppy_tired.png; sourceTree = "<group>"; };
-		8AC235032149FA2F00E3667B /* 11_Cuppy_upset.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 11_Cuppy_upset.png; sourceTree = "<group>"; };
 		8ACB6A971FE9CB7700A564BB /* Limits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Limits.swift; sourceTree = "<group>"; };
-		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
+		8AFE4050845C7355AE75A93C /* SecondaryTextTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SecondaryTextTableViewCell.swift; path = ./WAStickersThirdParty/UI/SecondaryTextTableViewCell.swift; sourceTree = SOURCE_ROOT; };
+		8B5A485CA098AC077D4D97E1 /* 18_MemesStickerPack_didYoMomBugsBunnieJr.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 18_MemesStickerPack_didYoMomBugsBunnieJr.webp; path = WAStickersThirdParty/Stickers/Memes/18_MemesStickerPack_didYoMomBugsBunnieJr.webp; sourceTree = SOURCE_ROOT; };
+		8C5048AB88B689D7AC3F174E /* 09_MemesStickerPack_angry.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 09_MemesStickerPack_angry.webp; path = WAStickersThirdParty/Stickers/Memes/09_MemesStickerPack_angry.webp; sourceTree = SOURCE_ROOT; };
+		8DD344C6BE9BDBB643F50412 /* 07_SSBMStickerPack_foxWhat.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 07_SSBMStickerPack_foxWhat.webp; path = WAStickersThirdParty/Stickers/SSBM/07_SSBMStickerPack_foxWhat.webp; sourceTree = SOURCE_ROOT; };
+		93F948A0AAD63BE168F25121 /* 01_MemesStickerPack_dailyTannieSpecial.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 01_MemesStickerPack_dailyTannieSpecial.webp; path = WAStickersThirdParty/Stickers/Memes/01_MemesStickerPack_dailyTannieSpecial.webp; sourceTree = SOURCE_ROOT; };
+		96CD4F5A8D494AF6EF1CDD7D /* LinkTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LinkTableViewCell.swift; path = ./WAStickersThirdParty/UI/LinkTableViewCell.swift; sourceTree = SOURCE_ROOT; };
+		99B1439CA73579159F31BF52 /* SecondaryTextTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SecondaryTextTableViewCell.xib; path = ./WAStickersThirdParty/UI/SecondaryTextTableViewCell.xib; sourceTree = SOURCE_ROOT; };
+		9D104028A25ED8C1956299ED /* 14_StairsRoomGangStickerPack_reemReallyNigga.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 14_StairsRoomGangStickerPack_reemReallyNigga.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/14_StairsRoomGangStickerPack_reemReallyNigga.webp"; sourceTree = SOURCE_ROOT; };
+		9E3F4F9BA4911A5FD889FC21 /* StickerPackTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StickerPackTableViewCell.swift; path = ./WAStickersThirdParty/UI/StickerPackTableViewCell.swift; sourceTree = SOURCE_ROOT; };
+		A3B24755AA2DD782460925C3 /* StickerPackInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StickerPackInfoViewController.swift; path = ./WAStickersThirdParty/UI/StickerPackInfoViewController.swift; sourceTree = SOURCE_ROOT; };
+		A54F4DBAA088AD42D9CB3E40 /* 04_WaifusStickerPack_asuna.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 04_WaifusStickerPack_asuna.webp; path = WAStickersThirdParty/Stickers/Waifus/04_WaifusStickerPack_asuna.webp; sourceTree = SOURCE_ROOT; };
+		B10C4C3593A80BC944C21B4E /* tray_honokaKousaka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tray_honokaKousaka.png; path = WAStickersThirdParty/Stickers/Waifus/tray_honokaKousaka.png; sourceTree = SOURCE_ROOT; };
+		B1C64E438AC56F98679A7042 /* 11_MemesStickerPack_smilingSegev.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 11_MemesStickerPack_smilingSegev.webp; path = WAStickersThirdParty/Stickers/Memes/11_MemesStickerPack_smilingSegev.webp; sourceTree = SOURCE_ROOT; };
+		B53E4C36B8DFC496A94D5D9A /* 10_MemesStickerPack_shtokShamen.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 10_MemesStickerPack_shtokShamen.webp; path = WAStickersThirdParty/Stickers/Memes/10_MemesStickerPack_shtokShamen.webp; sourceTree = SOURCE_ROOT; };
+		B55A438EAA0E4C3A2E739F63 /* 08_StairsRoomGangStickerPack_reemDown.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 08_StairsRoomGangStickerPack_reemDown.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/08_StairsRoomGangStickerPack_reemDown.webp"; sourceTree = SOURCE_ROOT; };
+		B7C14E4CA8510817CAD0A208 /* 04_SSBMStickerPack_zain.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 04_SSBMStickerPack_zain.webp; path = WAStickersThirdParty/Stickers/SSBM/04_SSBMStickerPack_zain.webp; sourceTree = SOURCE_ROOT; };
+		B89147DDBE073902E2F32045 /* 02_NintendoStickerPack_yoshi.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 02_NintendoStickerPack_yoshi.webp; path = WAStickersThirdParty/Stickers/Nintendo/02_NintendoStickerPack_yoshi.webp; sourceTree = SOURCE_ROOT; };
+		BB8F4CC8A6D653995609E038 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GradientView.swift; path = ./WAStickersThirdParty/UI/GradientView.swift; sourceTree = SOURCE_ROOT; };
+		C663438787F7D71E7C5BE961 /* AquaButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AquaButton.swift; path = ./WAStickersThirdParty/UI/AquaButton.swift; sourceTree = SOURCE_ROOT; };
+		C98A4936BB587B6A7439B3EA /* 02_SSBMStickerPack_falcoT-pose.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = "02_SSBMStickerPack_falcoT-pose.webp"; path = "WAStickersThirdParty/Stickers/SSBM/02_SSBMStickerPack_falcoT-pose.webp"; sourceTree = SOURCE_ROOT; };
+		CCE34065B75C1E7CBA264D7B /* 13_StairsRoomGangStickerPack_teacherIsrael2.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 13_StairsRoomGangStickerPack_teacherIsrael2.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/13_StairsRoomGangStickerPack_teacherIsrael2.webp"; sourceTree = SOURCE_ROOT; };
+		CDC24BE191A5207E491B8403 /* 01_WaifusStickerPack_eromangaSensei.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 01_WaifusStickerPack_eromangaSensei.webp; path = WAStickersThirdParty/Stickers/Waifus/01_WaifusStickerPack_eromangaSensei.webp; sourceTree = SOURCE_ROOT; };
+		E4674A9DBB4AE3FA0AE0D4E6 /* 11_StairsRoomGangStickerPack_kermit.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 11_StairsRoomGangStickerPack_kermit.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/11_StairsRoomGangStickerPack_kermit.webp"; sourceTree = SOURCE_ROOT; };
+		E6F1453D90F6DDA3A4AFF1CE /* .DS_Store */ = {isa = PBXFileReference; lastKnownFileType = text; name = .DS_Store; path = WAStickersThirdParty/Stickers/Memes/.DS_Store; sourceTree = SOURCE_ROOT; };
+		E8B44C21A6A3CEC1B7E264CB /* 06_MemesStickerPack_empty.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 06_MemesStickerPack_empty.webp; path = WAStickersThirdParty/Stickers/Memes/06_MemesStickerPack_empty.webp; sourceTree = SOURCE_ROOT; };
+		F00E4756B4A58DACE1BDF51A /* StickerPackTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = StickerPackTableViewCell.xib; path = ./WAStickersThirdParty/UI/StickerPackTableViewCell.xib; sourceTree = SOURCE_ROOT; };
+		F43F4C4B857CFCEFBE4698C1 /* 08_MemesStickerPack_jebaited.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 08_MemesStickerPack_jebaited.webp; path = WAStickersThirdParty/Stickers/Memes/08_MemesStickerPack_jebaited.webp; sourceTree = SOURCE_ROOT; };
+		F9F34819B88B1BE9A4E03C35 /* 01_NintendoStickerPack_kirby.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 01_NintendoStickerPack_kirby.webp; path = WAStickersThirdParty/Stickers/Nintendo/01_NintendoStickerPack_kirby.webp; sourceTree = SOURCE_ROOT; };
+		FE1942228F6961086B28CF28 /* tray_peoplesChamp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tray_peoplesChamp.png; path = WAStickersThirdParty/Stickers/SSBM/tray_peoplesChamp.png; sourceTree = SOURCE_ROOT; };
+		FFBD44788BFC21C0011A2CB5 /* 12_StairsRoomGangStickerPack_itzhak.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 12_StairsRoomGangStickerPack_itzhak.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/12_StairsRoomGangStickerPack_itzhak.webp"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +210,79 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2B824134AEB73850805373DB /* Stairs Room Gang */ = {
+			isa = PBXGroup;
+			children = (
+				9D104028A25ED8C1956299ED /* 14_StairsRoomGangStickerPack_reemReallyNigga.webp */,
+				41FF4C1A9CF54983EDEF55F8 /* 10_StairsRoomGangStickerPack_reemShtokShamen2.webp */,
+				FFBD44788BFC21C0011A2CB5 /* 12_StairsRoomGangStickerPack_itzhak.webp */,
+				69C14D35B76C4F331EDB919E /* 07_StairsRoomGangStickerPack_reemInWheels.webp */,
+				64A04966BB6824EA68B6EAFC /* 01_StairsRoomGangStickerPack_teacherIsrael.webp */,
+				6C154A82AA07467D0ACD4870 /* 04_StairsRoomGangStickerPack_shaharRubin.webp */,
+				E4674A9DBB4AE3FA0AE0D4E6 /* 11_StairsRoomGangStickerPack_kermit.webp */,
+				23364D7D8D6EFC81ADBD262D /* 02_StairsRoomGangStickerPack_reem.webp */,
+				32C2404DA1E84B463778271A /* 09_StairsRoomGangStickerPack_reemShtokShamen.webp */,
+				296144C6926DB61AAC29F09D /* 05_StairsRoomGangStickerPack_shabitzBuyMoreCards.webp */,
+				8104498793D676973C4DBD23 /* 06_StairsRoomGangStickerPack_nataam.webp */,
+				50CD460685E769D0E5BB32A3 /* tray_reem.png */,
+				82D1474398B7512ED870C0F7 /* 03_StairsRoomGangStickerPack_shabitz.webp */,
+				B55A438EAA0E4C3A2E739F63 /* 08_StairsRoomGangStickerPack_reemDown.webp */,
+				CCE34065B75C1E7CBA264D7B /* 13_StairsRoomGangStickerPack_teacherIsrael2.webp */,
+			);
+			name = "Stairs Room Gang";
+			path = "/Users/noamalffasy/Documents/Programming/Random/WhatsApp/Stickers/AvinoamOneRepo/iOS/WAStickersThirdParty/Stickers/Stairs Room Gang";
+			sourceTree = "<group>";
+		};
+		2D3A4D46A8CA0444F2EF84A6 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				7BA043E3A5BC34D5E17BF257 /* AllStickerPacksViewController.swift */,
+				C663438787F7D71E7C5BE961 /* AquaButton.swift */,
+				BB8F4CC8A6D653995609E038 /* GradientView.swift */,
+				96CD4F5A8D494AF6EF1CDD7D /* LinkTableViewCell.swift */,
+				0CD34057B7411E1050BDA481 /* LinkTableViewCell.xib */,
+				8AFE4050845C7355AE75A93C /* SecondaryTextTableViewCell.swift */,
+				99B1439CA73579159F31BF52 /* SecondaryTextTableViewCell.xib */,
+				12EE4E7192F4C19884B629E7 /* StickerCell.swift */,
+				A3B24755AA2DD782460925C3 /* StickerPackInfoViewController.swift */,
+				9E3F4F9BA4911A5FD889FC21 /* StickerPackTableViewCell.swift */,
+				F00E4756B4A58DACE1BDF51A /* StickerPackTableViewCell.xib */,
+				67344702A2B9290C0B9805B5 /* StickerPackViewController.swift */,
+				2C614206B0B71C118D4E3D29 /* UIAlertController+Additions.swift */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		85F34055808175F0129D50D5 /* Nintendo */ = {
+			isa = PBXGroup;
+			children = (
+				0B8743C3BDF7DACACB1746BA /* 03_NintendoStickerPack_reggieFace.webp */,
+				F9F34819B88B1BE9A4E03C35 /* 01_NintendoStickerPack_kirby.webp */,
+				29314686BDC03FF8A7962854 /* 04_NintendoStickerPack_reggieSigh.webp */,
+				B89147DDBE073902E2F32045 /* 02_NintendoStickerPack_yoshi.webp */,
+				230F49A38A0103361A9DC9A8 /* tray_reggieFace.png */,
+			);
+			name = Nintendo;
+			path = /Users/noamalffasy/Documents/Programming/Random/WhatsApp/Stickers/AvinoamOneRepo/iOS/WAStickersThirdParty/Stickers/Nintendo;
+			sourceTree = "<group>";
+		};
+		870F42559036A97E5B767497 /* SSBM */ = {
+			isa = PBXGroup;
+			children = (
+				58344FD6B9C81B1BAE03CB65 /* 01_SSBMStickerPack_foxT-pose.webp */,
+				7EE2479BB835A2E0625EB825 /* 05_SSBMStickerPack_hungrybox.webp */,
+				C98A4936BB587B6A7439B3EA /* 02_SSBMStickerPack_falcoT-pose.webp */,
+				58234B86A9E808A8578BBA2E /* 08_SSBMStickerPack_chillindude.webp */,
+				2A3B44EFA197630A3C5F4B6E /* 06_SSBMStickerPack_falconWhat.webp */,
+				8DD344C6BE9BDBB643F50412 /* 07_SSBMStickerPack_foxWhat.webp */,
+				54F7447FB88C3B0B38995B82 /* 03_SSBMStickerPack_peoplesChamp.webp */,
+				FE1942228F6961086B28CF28 /* tray_peoplesChamp.png */,
+				B7C14E4CA8510817CAD0A208 /* 04_SSBMStickerPack_zain.webp */,
+			);
+			name = SSBM;
+			path = /Users/noamalffasy/Documents/Programming/Random/WhatsApp/Stickers/AvinoamOneRepo/iOS/WAStickersThirdParty/Stickers/SSBM;
+			sourceTree = "<group>";
+		};
 		8A18E2F31FB3B4840082201D /* WebP */ = {
 			isa = PBXGroup;
 			children = (
@@ -214,48 +330,15 @@
 				8A18E33E1FBA7DC50082201D /* WebPManager.swift */,
 				8A22EE071F9A9F40003A7F21 /* Main.storyboard */,
 				8A18E33C1FBA793F0082201D /* sticker_packs.wasticker */,
-				8A26A6A71FEB2E2400256DE8 /* SampleStickers */,
-				8ADA60721FD71C8D006C9BBA /* UI */,
 				8A18E2F31FB3B4840082201D /* WebP */,
 				8A22EE0A1F9A9F40003A7F21 /* Assets.xcassets */,
 				8A22EE0C1F9A9F40003A7F21 /* LaunchScreen.storyboard */,
 				8A22EE0F1F9A9F40003A7F21 /* Info.plist */,
 				8A18E2E31FB3B47A0082201D /* WAStickersThirdParty-Bridging-Header.h */,
+				2D3A4D46A8CA0444F2EF84A6 /* UI */,
+				974D4C238B9F3B122038E0A1 /* Stickers */,
 			);
 			path = WAStickersThirdParty;
-			sourceTree = "<group>";
-		};
-		8A26A6A71FEB2E2400256DE8 /* SampleStickers */ = {
-			isa = PBXGroup;
-			children = (
-				8AC234882146F63D00E3667B /* tray_Cuppy.png */,
-				8AC234942146F65100E3667B /* 01_Cuppy_smile.png */,
-				8AC234962146F65200E3667B /* 02_Cuppy_lol.png */,
-				8AC234972146F65200E3667B /* 03_Cuppy_rofl.png */,
-				8AC2349B2146F65300E3667B /* 04_Cuppy_sad.png */,
-				8AC2349F2146F65400E3667B /* 05_Cuppy_cry.png */,
-				8AC2348B2146F65000E3667B /* 06_Cuppy_love.png */,
-				8AC2348F2146F65100E3667B /* 07_Cuppy_hate.png */,
-				8AC234982146F65200E3667B /* 08_Cuppy_lovewithmug.png */,
-				8AC2348C2146F65000E3667B /* 09_Cuppy_lovewithcookie.png */,
-				8AC2348E2146F65100E3667B /* 10_Cuppy_hmm.png */,
-				8AC235032149FA2F00E3667B /* 11_Cuppy_upset.png */,
-				8AC234922146F65100E3667B /* 12_Cuppy_angry.png */,
-				8AC2349A2146F65200E3667B /* 13_Cuppy_curious.png */,
-				8AC234902146F65100E3667B /* 14_Cuppy_weird.png */,
-				8AC2348D2146F65100E3667B /* 15_Cuppy_bluescreen.png */,
-				8AC2349C2146F65300E3667B /* 16_Cuppy_angry.png */,
-				8AC234A22146F65400E3667B /* 17_Cuppy_tired.png */,
-				8AC2349E2146F65400E3667B /* 18_Cuppy_workhard.png */,
-				8AC234A02146F65400E3667B /* 19_Cuppy_shine.png */,
-				8AC234A12146F65400E3667B /* 20_Cuppy_disgusting.png */,
-				8AC234952146F65200E3667B /* 21_Cuppy_hi.png */,
-				8AC234912146F65100E3667B /* 22_Cuppy_bye.png */,
-				8AC234932146F65100E3667B /* 23_Cuppy_greentea.png */,
-				8AC234992146F65200E3667B /* 24_Cuppy_phone.png */,
-				8AC2349D2146F65300E3667B /* 25_Cuppy_battery.png */,
-			);
-			name = SampleStickers;
 			sourceTree = "<group>";
 		};
 		8A40BE481FB100C3003AD704 /* Frameworks */ = {
@@ -274,24 +357,58 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		8ADA60721FD71C8D006C9BBA /* UI */ = {
+		974D4C238B9F3B122038E0A1 /* Stickers */ = {
 			isa = PBXGroup;
 			children = (
-				8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */,
-				8A27F11F1FD7444B001B2BBD /* StickerPackViewController.swift */,
-				8A27F12A1FD9E025001B2BBD /* StickerPackInfoViewController.swift */,
-				8A27F1211FD76937001B2BBD /* AquaButton.swift */,
-				0E6359A3203E148200805DEB /* StickerCell.swift */,
-				8A27F11B1FD73DD0001B2BBD /* StickerPackTableViewCell.xib */,
-				8A27F11D1FD73DE2001B2BBD /* StickerPackTableViewCell.swift */,
-				8A27F12E1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib */,
-				8A27F12C1FD9E718001B2BBD /* SecondaryTextTableViewCell.swift */,
-				8A27F1301FD9E987001B2BBD /* LinkTableViewCell.xib */,
-				8A27F1321FD9EA08001B2BBD /* LinkTableViewCell.swift */,
-				8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */,
-				8A6001CB20298225001EC448 /* GradientView.swift */,
+				AE97486A88F118A193BFE070 /* Memes */,
+				870F42559036A97E5B767497 /* SSBM */,
+				BA414DD096F384B8B0F14BE6 /* Waifus */,
+				85F34055808175F0129D50D5 /* Nintendo */,
+				2B824134AEB73850805373DB /* Stairs Room Gang */,
 			);
-			name = UI;
+			name = Stickers;
+			path = /Users/noamalffasy/Documents/Programming/Random/WhatsApp/Stickers/AvinoamOneRepo/iOS/WAStickersThirdParty/Stickers;
+			sourceTree = "<group>";
+		};
+		AE97486A88F118A193BFE070 /* Memes */ = {
+			isa = PBXGroup;
+			children = (
+				F43F4C4B857CFCEFBE4698C1 /* 08_MemesStickerPack_jebaited.webp */,
+				E6F1453D90F6DDA3A4AFF1CE /* .DS_Store */,
+				51E34688BA3A76D1DEDBAC6F /* 02_MemesStickerPack_noAnime.webp */,
+				5077429BABBE28964F169C93 /* 12_MemesStickerPack_AJ.webp */,
+				34234B09B62711103577105D /* tray_squidward.png */,
+				B1C64E438AC56F98679A7042 /* 11_MemesStickerPack_smilingSegev.webp */,
+				8B5A485CA098AC077D4D97E1 /* 18_MemesStickerPack_didYoMomBugsBunnieJr.webp */,
+				81B44C7EBCD8BC9046C44E5F /* 07_MemesStickerPack_indianVirgin.webp */,
+				7F19403C92D4B1C697880063 /* 04_MemesStickerPack_qualitySeal.webp */,
+				66FD47128C5DDA1151FDE6DB /* 15_MemesStickerPack_friedPinokio.webp */,
+				4217453DB11D9FCB5408AE6F /* 05_MemesStickerPack_goku.webp */,
+				35114FD8B52B471A177FF37F /* 03_MemesStickerPack_squidward.webp */,
+				8C5048AB88B689D7AC3F174E /* 09_MemesStickerPack_angry.webp */,
+				40754973AF0231A7D6D2639F /* 16_MemesStickerPack_gayStickerVehicle.webp */,
+				542848378DB2BFA603CE8DBA /* 14_MemesStickerPack_friedCowboy.webp */,
+				01714772B4AB8C0B76FEBD86 /* 17_MemesStickerPack_deletDisCS.webp */,
+				93F948A0AAD63BE168F25121 /* 01_MemesStickerPack_dailyTannieSpecial.webp */,
+				384442059191E55B89C51BBB /* 13_MemesStickerPack_jojo.webp */,
+				E8B44C21A6A3CEC1B7E264CB /* 06_MemesStickerPack_empty.webp */,
+				B53E4C36B8DFC496A94D5D9A /* 10_MemesStickerPack_shtokShamen.webp */,
+			);
+			name = Memes;
+			path = /Users/noamalffasy/Documents/Programming/Random/WhatsApp/Stickers/AvinoamOneRepo/iOS/WAStickersThirdParty/Stickers/Memes;
+			sourceTree = "<group>";
+		};
+		BA414DD096F384B8B0F14BE6 /* Waifus */ = {
+			isa = PBXGroup;
+			children = (
+				508649F6B0CB2C65ABA8296F /* 03_WaifusStickerPack_honokaKousaka.webp */,
+				5F9F4948B0C7B8BFBEBE3414 /* 02_WaifusStickerPack_kurosawaRuby.webp */,
+				B10C4C3593A80BC944C21B4E /* tray_honokaKousaka.png */,
+				CDC24BE191A5207E491B8403 /* 01_WaifusStickerPack_eromangaSensei.webp */,
+				A54F4DBAA088AD42D9CB3E40 /* 04_WaifusStickerPack_asuna.webp */,
+			);
+			name = Waifus;
+			path = /Users/noamalffasy/Documents/Programming/Random/WhatsApp/Stickers/AvinoamOneRepo/iOS/WAStickersThirdParty/Stickers/Waifus;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -304,7 +421,6 @@
 				8A22EDFC1F9A9F40003A7F21 /* Sources */,
 				8A22EDFD1F9A9F40003A7F21 /* Frameworks */,
 				8A22EDFE1F9A9F40003A7F21 /* Resources */,
-				8A18E32F1FBA3CC80082201D /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -360,39 +476,67 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8AC234A72146F65500E3667B /* 10_Cuppy_hmm.png in Resources */,
-				8AC234B92146F65500E3667B /* 19_Cuppy_shine.png in Resources */,
-				8A27F12F1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib in Resources */,
-				8AC234B52146F65500E3667B /* 16_Cuppy_angry.png in Resources */,
-				8AC234B12146F65500E3667B /* 08_Cuppy_lovewithmug.png in Resources */,
-				8AC234B72146F65500E3667B /* 18_Cuppy_workhard.png in Resources */,
-				8AC234892146F63D00E3667B /* tray_Cuppy.png in Resources */,
-				8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */,
-				8AC234A92146F65500E3667B /* 14_Cuppy_weird.png in Resources */,
-				8AC234AD2146F65500E3667B /* 01_Cuppy_smile.png in Resources */,
-				8AC234AA2146F65500E3667B /* 22_Cuppy_bye.png in Resources */,
-				8AC234A52146F65500E3667B /* 09_Cuppy_lovewithcookie.png in Resources */,
-				8AC234AE2146F65500E3667B /* 21_Cuppy_hi.png in Resources */,
-				8AC234B82146F65500E3667B /* 05_Cuppy_cry.png in Resources */,
-				8AC234A82146F65500E3667B /* 07_Cuppy_hate.png in Resources */,
-				8AC234B02146F65500E3667B /* 03_Cuppy_rofl.png in Resources */,
 				8A22EE0E1F9A9F40003A7F21 /* LaunchScreen.storyboard in Resources */,
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
-				8AC235042149FA3000E3667B /* 11_Cuppy_upset.png in Resources */,
-				8AC234AB2146F65500E3667B /* 12_Cuppy_angry.png in Resources */,
-				8AC234B42146F65500E3667B /* 04_Cuppy_sad.png in Resources */,
-				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
-				8AC234AF2146F65500E3667B /* 02_Cuppy_lol.png in Resources */,
-				8AC234A42146F65500E3667B /* 06_Cuppy_love.png in Resources */,
 				8A22EE091F9A9F40003A7F21 /* Main.storyboard in Resources */,
-				8AC234B32146F65500E3667B /* 13_Cuppy_curious.png in Resources */,
-				8AC234B22146F65500E3667B /* 24_Cuppy_phone.png in Resources */,
-				8AC234B62146F65500E3667B /* 25_Cuppy_battery.png in Resources */,
-				8AC234BB2146F65500E3667B /* 17_Cuppy_tired.png in Resources */,
-				8AC234BA2146F65500E3667B /* 20_Cuppy_disgusting.png in Resources */,
 				8A18E33D1FBA793F0082201D /* sticker_packs.wasticker in Resources */,
-				8AC234A62146F65500E3667B /* 15_Cuppy_bluescreen.png in Resources */,
-				8AC234AC2146F65500E3667B /* 23_Cuppy_greentea.png in Resources */,
+				BA744A62A85842081E63FCEB /* LinkTableViewCell.xib in Resources */,
+				95AF4324A3398052F92D8D16 /* SecondaryTextTableViewCell.xib in Resources */,
+				BA754265A390428740A9EFC5 /* StickerPackTableViewCell.xib in Resources */,
+				7B2149E6BC71666B182A37E6 /* 08_MemesStickerPack_jebaited.webp in Resources */,
+				1F71452C86BF12F609BD26A7 /* .DS_Store in Resources */,
+				C4B74D51B44E88C44C6341E1 /* 02_MemesStickerPack_noAnime.webp in Resources */,
+				D18540EFA1427315867FAC41 /* 12_MemesStickerPack_AJ.webp in Resources */,
+				7CB64E38AFD9CC4A7CB8E516 /* tray_squidward.png in Resources */,
+				A176496D8AED3CEB5321D743 /* 11_MemesStickerPack_smilingSegev.webp in Resources */,
+				41CE4E429AF82765FCC6EBA5 /* 18_MemesStickerPack_didYoMomBugsBunnieJr.webp in Resources */,
+				EEB24F62B3E6378EF2E7057D /* 07_MemesStickerPack_indianVirgin.webp in Resources */,
+				5804482881DBE2FE1D0B2DC2 /* 04_MemesStickerPack_qualitySeal.webp in Resources */,
+				DA9F46AF9661C1BC3AC3735F /* 15_MemesStickerPack_friedPinokio.webp in Resources */,
+				57334811A9A90A35ECB33957 /* 05_MemesStickerPack_goku.webp in Resources */,
+				171B4FD5B4B18BAD250E7B9A /* 03_MemesStickerPack_squidward.webp in Resources */,
+				0AE0470FBEC448C6336BC885 /* 09_MemesStickerPack_angry.webp in Resources */,
+				713C4B87B2604D906F0E6CA3 /* 16_MemesStickerPack_gayStickerVehicle.webp in Resources */,
+				CAFA4B218B9A8E9B59E07E2C /* 14_MemesStickerPack_friedCowboy.webp in Resources */,
+				DB2443F8A0D2859844A5A1F5 /* 17_MemesStickerPack_deletDisCS.webp in Resources */,
+				E9A24D4883FD4B3C51FD5857 /* 01_MemesStickerPack_dailyTannieSpecial.webp in Resources */,
+				08B145AD97359CD2B10029B5 /* 13_MemesStickerPack_jojo.webp in Resources */,
+				850C4B28ABE55E93D80AC883 /* 06_MemesStickerPack_empty.webp in Resources */,
+				D2DC4B218435C1B346BA75C7 /* 10_MemesStickerPack_shtokShamen.webp in Resources */,
+				CCEE48CC953E52460392CE54 /* 01_SSBMStickerPack_foxT-pose.webp in Resources */,
+				A06C4D1490DE2753F02EB601 /* 05_SSBMStickerPack_hungrybox.webp in Resources */,
+				0FF24A48A90FFDFB7C416AF1 /* 02_SSBMStickerPack_falcoT-pose.webp in Resources */,
+				F35344889E1B326D3C5EB156 /* 08_SSBMStickerPack_chillindude.webp in Resources */,
+				23DA413FB8CDA39938F154B9 /* 06_SSBMStickerPack_falconWhat.webp in Resources */,
+				82F8465A8AC6C57CC7CA6BE9 /* 07_SSBMStickerPack_foxWhat.webp in Resources */,
+				1D9C424BA9CDEBBBFED9542D /* 03_SSBMStickerPack_peoplesChamp.webp in Resources */,
+				210D40C98B16FA3C6C15BE13 /* tray_peoplesChamp.png in Resources */,
+				C3A147FBB4A75FD81FFC9E14 /* 04_SSBMStickerPack_zain.webp in Resources */,
+				C7ED4594A7C46E27F6E7586B /* 03_WaifusStickerPack_honokaKousaka.webp in Resources */,
+				E57B43059BE74B289891894C /* 02_WaifusStickerPack_kurosawaRuby.webp in Resources */,
+				67D74D3F9D5BF73A4395245C /* tray_honokaKousaka.png in Resources */,
+				866E4FDA99B93F55B33CEB00 /* 01_WaifusStickerPack_eromangaSensei.webp in Resources */,
+				2349473592EDA7207693F90C /* 04_WaifusStickerPack_asuna.webp in Resources */,
+				88D64539B8766D0A75075447 /* 03_NintendoStickerPack_reggieFace.webp in Resources */,
+				0C3548749FE6B58D497BA47B /* 01_NintendoStickerPack_kirby.webp in Resources */,
+				A8264A0EBBB2FC50475F733D /* 04_NintendoStickerPack_reggieSigh.webp in Resources */,
+				B1784D16B0EEFB42ACED4B6E /* 02_NintendoStickerPack_yoshi.webp in Resources */,
+				E36D490F99E81E656CA4CAB4 /* tray_reggieFace.png in Resources */,
+				8C8945B2A0D955F4CDD50DA5 /* 14_StairsRoomGangStickerPack_reemReallyNigga.webp in Resources */,
+				34BE4363A68AB760CA00456E /* 10_StairsRoomGangStickerPack_reemShtokShamen2.webp in Resources */,
+				616E47FE843E9B662F2C64EF /* 12_StairsRoomGangStickerPack_itzhak.webp in Resources */,
+				27854024B001ED8216908CCD /* 07_StairsRoomGangStickerPack_reemInWheels.webp in Resources */,
+				2FB14A22BD92555929A9CDB1 /* 01_StairsRoomGangStickerPack_teacherIsrael.webp in Resources */,
+				7C1A48B5B5A1738BD7F6F450 /* 04_StairsRoomGangStickerPack_shaharRubin.webp in Resources */,
+				088E4925BDF6C653A00EC233 /* 11_StairsRoomGangStickerPack_kermit.webp in Resources */,
+				C3BC4F8A9E3CC8A4D119D10C /* 02_StairsRoomGangStickerPack_reem.webp in Resources */,
+				50764D11BB5D43BBFA31D812 /* 09_StairsRoomGangStickerPack_reemShtokShamen.webp in Resources */,
+				F1B2414FBB892801732C0018 /* 05_StairsRoomGangStickerPack_shabitzBuyMoreCards.webp in Resources */,
+				BBBC466AA082311F705C0F7A /* 06_StairsRoomGangStickerPack_nataam.webp in Resources */,
+				CDA045B197764B706CD7EE69 /* tray_reem.png in Resources */,
+				371F433896BE49C1F36A6CFF /* 03_StairsRoomGangStickerPack_shabitz.webp in Resources */,
+				EC624736BCE1DC1D0CC4AA85 /* 08_StairsRoomGangStickerPack_reemDown.webp in Resources */,
+				956249B9AD5330AC31E3C92A /* 13_StairsRoomGangStickerPack_teacherIsrael2.webp in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -403,29 +547,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8A27F11E1FD73DE2001B2BBD /* StickerPackTableViewCell.swift in Sources */,
-				8A27F1201FD7444B001B2BBD /* StickerPackViewController.swift in Sources */,
 				8A18E3351FBA5CA90082201D /* StickerPackManager.swift in Sources */,
-				8A27F1331FD9EA08001B2BBD /* LinkTableViewCell.swift in Sources */,
 				8A18E2F01FB3B47D0082201D /* YYFrameImage.m in Sources */,
-				8A27F12B1FD9E025001B2BBD /* StickerPackInfoViewController.swift in Sources */,
 				8A18E33F1FBA7DC50082201D /* WebPManager.swift in Sources */,
-				8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */,
 				8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */,
 				8A40BE651FB122B3003AD704 /* StickerPack.swift in Sources */,
-				8A6001CC20298225001EC448 /* GradientView.swift in Sources */,
-				8A0A6DCD1FE9F1CE00110AF2 /* UIAlertController+Additions.swift in Sources */,
 				8A18E2F11FB3B47D0082201D /* YYSpriteSheetImage.m in Sources */,
 				8A18E2EF1FB3B47D0082201D /* YYAnimatedImageView.m in Sources */,
-				8A27F1221FD76937001B2BBD /* AquaButton.swift in Sources */,
 				8A8D4A7A1FB291290078C4AF /* Interoperability.swift in Sources */,
 				8AB5951920C1FC130076625E /* Sticker.swift in Sources */,
-				8A27F12D1FD9E718001B2BBD /* SecondaryTextTableViewCell.swift in Sources */,
 				8A22EE041F9A9F40003A7F21 /* AppDelegate.swift in Sources */,
 				8A18E2EE1FB3B47D0082201D /* YYImage.m in Sources */,
 				8A18E2F21FB3B47D0082201D /* YYImageCoder.m in Sources */,
-				0E6359A4203E148200805DEB /* StickerCell.swift in Sources */,
 				8AB5951B20C1FC440076625E /* ImageData.swift in Sources */,
+				6B774D7F9A22F72CDDD84C9B /* AllStickerPacksViewController.swift in Sources */,
+				EA284A0BBA57A3A16BCE59A4 /* AquaButton.swift in Sources */,
+				7AC24F1EB2684E351CA71FD7 /* GradientView.swift in Sources */,
+				E2154771AEA3F7346B1E46BD /* LinkTableViewCell.swift in Sources */,
+				DE0C4F87B591E7578A4545FD /* SecondaryTextTableViewCell.swift in Sources */,
+				CA8E45BD82964B31BFB30EA1 /* StickerCell.swift in Sources */,
+				CB61407A95F1406420CB02D6 /* StickerPackInfoViewController.swift in Sources */,
+				C6AA45BB9B7AD769BD0B96F7 /* StickerPackTableViewCell.swift in Sources */,
+				3684430280866630497D8BF4 /* StickerPackViewController.swift in Sources */,
+				1B2B4E7EBA4E7DA36223F1D8 /* UIAlertController+Additions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -568,7 +712,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 57T9237FN3;
+				DEVELOPMENT_TEAM = CVL52G2T6M;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -576,7 +720,20 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = WA.WAStickersThirdParty;
+				LIBRARY_SEARCH_PATHS = (
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/MemesStickerPack",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/StairsRoomGangStickerPack",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/WaifusStickerPack",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/NintendoStickerPack",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/SSBMStickerPack",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/Memes",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/SSBM",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/Waifus",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/Nintendo",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/StairsRoomGang",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/Stairs Room Gang",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.avinoam.wasticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -592,7 +749,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 57T9237FN3;
+				DEVELOPMENT_TEAM = CVL52G2T6M;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -600,7 +757,20 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = WA.WAStickersThirdParty;
+				LIBRARY_SEARCH_PATHS = (
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/MemesStickerPack",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/StairsRoomGangStickerPack",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/WaifusStickerPack",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/NintendoStickerPack",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/SSBMStickerPack",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/Memes",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/SSBM",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/Waifus",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/Nintendo",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/StairsRoomGang",
+					"$(SRCROOT)/WAStickersThirdParty/Stickers/Stairs Room Gang",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.avinoam.wasticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
