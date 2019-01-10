@@ -25,6 +25,7 @@
 		3684430280866630497D8BF4 /* StickerPackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67344702A2B9290C0B9805B5 /* StickerPackViewController.swift */; };
 		371F433896BE49C1F36A6CFF /* 03_StairsRoomGangStickerPack_shabitz.webp in Resources */ = {isa = PBXBuildFile; fileRef = 82D1474398B7512ED870C0F7 /* 03_StairsRoomGangStickerPack_shabitz.webp */; };
 		41CE4E429AF82765FCC6EBA5 /* 18_MemesStickerPack_didYoMomBugsBunnieJr.webp in Resources */ = {isa = PBXBuildFile; fileRef = 8B5A485CA098AC077D4D97E1 /* 18_MemesStickerPack_didYoMomBugsBunnieJr.webp */; };
+		460E4DD4B8865489DC878E00 /* 19_MemesStickerPack_meVsThisArgument.webp in Resources */ = {isa = PBXBuildFile; fileRef = BAE249A099B3E21480F612B0 /* 19_MemesStickerPack_meVsThisArgument.webp */; };
 		50764D11BB5D43BBFA31D812 /* 09_StairsRoomGangStickerPack_reemShtokShamen.webp in Resources */ = {isa = PBXBuildFile; fileRef = 32C2404DA1E84B463778271A /* 09_StairsRoomGangStickerPack_reemShtokShamen.webp */; };
 		57334811A9A90A35ECB33957 /* 05_MemesStickerPack_goku.webp in Resources */ = {isa = PBXBuildFile; fileRef = 4217453DB11D9FCB5408AE6F /* 05_MemesStickerPack_goku.webp */; };
 		5804482881DBE2FE1D0B2DC2 /* 04_MemesStickerPack_qualitySeal.webp in Resources */ = {isa = PBXBuildFile; fileRef = 7F19403C92D4B1C697880063 /* 04_MemesStickerPack_qualitySeal.webp */; };
@@ -40,6 +41,7 @@
 		850C4B28ABE55E93D80AC883 /* 06_MemesStickerPack_empty.webp in Resources */ = {isa = PBXBuildFile; fileRef = E8B44C21A6A3CEC1B7E264CB /* 06_MemesStickerPack_empty.webp */; };
 		866E4FDA99B93F55B33CEB00 /* 01_WaifusStickerPack_eromangaSensei.webp in Resources */ = {isa = PBXBuildFile; fileRef = CDC24BE191A5207E491B8403 /* 01_WaifusStickerPack_eromangaSensei.webp */; };
 		88D64539B8766D0A75075447 /* 03_NintendoStickerPack_reggieFace.webp in Resources */ = {isa = PBXBuildFile; fileRef = 0B8743C3BDF7DACACB1746BA /* 03_NintendoStickerPack_reggieFace.webp */; };
+		8A074088A285658C31A1F835 /* 20_MemesStickerPack_antiNormieStickrs.webp in Resources */ = {isa = PBXBuildFile; fileRef = 94044BA296F4E10AE4B8E064 /* 20_MemesStickerPack_antiNormieStickrs.webp */; };
 		8A18E2EE1FB3B47D0082201D /* YYImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E51FB3B47B0082201D /* YYImage.m */; };
 		8A18E2EF1FB3B47D0082201D /* YYAnimatedImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E81FB3B47C0082201D /* YYAnimatedImageView.m */; };
 		8A18E2F01FB3B47D0082201D /* YYFrameImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2EA1FB3B47C0082201D /* YYFrameImage.m */; };
@@ -171,6 +173,7 @@
 		8C5048AB88B689D7AC3F174E /* 09_MemesStickerPack_angry.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 09_MemesStickerPack_angry.webp; path = WAStickersThirdParty/Stickers/Memes/09_MemesStickerPack_angry.webp; sourceTree = SOURCE_ROOT; };
 		8DD344C6BE9BDBB643F50412 /* 07_SSBMStickerPack_foxWhat.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 07_SSBMStickerPack_foxWhat.webp; path = WAStickersThirdParty/Stickers/SSBM/07_SSBMStickerPack_foxWhat.webp; sourceTree = SOURCE_ROOT; };
 		93F948A0AAD63BE168F25121 /* 01_MemesStickerPack_dailyTannieSpecial.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 01_MemesStickerPack_dailyTannieSpecial.webp; path = WAStickersThirdParty/Stickers/Memes/01_MemesStickerPack_dailyTannieSpecial.webp; sourceTree = SOURCE_ROOT; };
+		94044BA296F4E10AE4B8E064 /* 20_MemesStickerPack_antiNormieStickrs.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 20_MemesStickerPack_antiNormieStickrs.webp; path = "WAStickersThirdParty\\Stickers\\Memes\\20_MemesStickerPack_antiNormieStickrs.webp"; sourceTree = SOURCE_ROOT; };
 		96CD4F5A8D494AF6EF1CDD7D /* LinkTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LinkTableViewCell.swift; path = ./WAStickersThirdParty/UI/LinkTableViewCell.swift; sourceTree = SOURCE_ROOT; };
 		99B1439CA73579159F31BF52 /* SecondaryTextTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SecondaryTextTableViewCell.xib; path = ./WAStickersThirdParty/UI/SecondaryTextTableViewCell.xib; sourceTree = SOURCE_ROOT; };
 		9D104028A25ED8C1956299ED /* 14_StairsRoomGangStickerPack_reemReallyNigga.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 14_StairsRoomGangStickerPack_reemReallyNigga.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/14_StairsRoomGangStickerPack_reemReallyNigga.webp"; sourceTree = SOURCE_ROOT; };
@@ -183,6 +186,7 @@
 		B55A438EAA0E4C3A2E739F63 /* 08_StairsRoomGangStickerPack_reemDown.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 08_StairsRoomGangStickerPack_reemDown.webp; path = "WAStickersThirdParty/Stickers/Stairs Room Gang/08_StairsRoomGangStickerPack_reemDown.webp"; sourceTree = SOURCE_ROOT; };
 		B7C14E4CA8510817CAD0A208 /* 04_SSBMStickerPack_zain.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 04_SSBMStickerPack_zain.webp; path = WAStickersThirdParty/Stickers/SSBM/04_SSBMStickerPack_zain.webp; sourceTree = SOURCE_ROOT; };
 		B89147DDBE073902E2F32045 /* 02_NintendoStickerPack_yoshi.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 02_NintendoStickerPack_yoshi.webp; path = WAStickersThirdParty/Stickers/Nintendo/02_NintendoStickerPack_yoshi.webp; sourceTree = SOURCE_ROOT; };
+		BAE249A099B3E21480F612B0 /* 19_MemesStickerPack_meVsThisArgument.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = 19_MemesStickerPack_meVsThisArgument.webp; path = "WAStickersThirdParty\\Stickers\\Memes\\19_MemesStickerPack_meVsThisArgument.webp"; sourceTree = SOURCE_ROOT; };
 		BB8F4CC8A6D653995609E038 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GradientView.swift; path = ./WAStickersThirdParty/UI/GradientView.swift; sourceTree = SOURCE_ROOT; };
 		C663438787F7D71E7C5BE961 /* AquaButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AquaButton.swift; path = ./WAStickersThirdParty/UI/AquaButton.swift; sourceTree = SOURCE_ROOT; };
 		C98A4936BB587B6A7439B3EA /* 02_SSBMStickerPack_falcoT-pose.webp */ = {isa = PBXFileReference; lastKnownFileType = None; name = "02_SSBMStickerPack_falcoT-pose.webp"; path = "WAStickersThirdParty/Stickers/SSBM/02_SSBMStickerPack_falcoT-pose.webp"; sourceTree = SOURCE_ROOT; };
@@ -393,6 +397,8 @@
 				384442059191E55B89C51BBB /* 13_MemesStickerPack_jojo.webp */,
 				E8B44C21A6A3CEC1B7E264CB /* 06_MemesStickerPack_empty.webp */,
 				B53E4C36B8DFC496A94D5D9A /* 10_MemesStickerPack_shtokShamen.webp */,
+				BAE249A099B3E21480F612B0 /* 19_MemesStickerPack_meVsThisArgument.webp */,
+				94044BA296F4E10AE4B8E064 /* 20_MemesStickerPack_antiNormieStickrs.webp */,
 			);
 			name = Memes;
 			path = /Users/noamalffasy/Documents/Programming/Random/WhatsApp/Stickers/AvinoamOneRepo/iOS/WAStickersThirdParty/Stickers/Memes;
@@ -537,6 +543,8 @@
 				371F433896BE49C1F36A6CFF /* 03_StairsRoomGangStickerPack_shabitz.webp in Resources */,
 				EC624736BCE1DC1D0CC4AA85 /* 08_StairsRoomGangStickerPack_reemDown.webp in Resources */,
 				956249B9AD5330AC31E3C92A /* 13_StairsRoomGangStickerPack_teacherIsrael2.webp in Resources */,
+				460E4DD4B8865489DC878E00 /* 19_MemesStickerPack_meVsThisArgument.webp in Resources */,
+				8A074088A285658C31A1F835 /* 20_MemesStickerPack_antiNormieStickrs.webp in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -732,6 +740,7 @@
 					"$(SRCROOT)/WAStickersThirdParty/Stickers/Nintendo",
 					"$(SRCROOT)/WAStickersThirdParty/Stickers/StairsRoomGang",
 					"$(SRCROOT)/WAStickersThirdParty/Stickers/Stairs Room Gang",
+					"$(SRCROOT)\\WAStickersThirdParty\\Stickers\\Memes",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.avinoam.wasticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -769,6 +778,7 @@
 					"$(SRCROOT)/WAStickersThirdParty/Stickers/Nintendo",
 					"$(SRCROOT)/WAStickersThirdParty/Stickers/StairsRoomGang",
 					"$(SRCROOT)/WAStickersThirdParty/Stickers/Stairs Room Gang",
+					"$(SRCROOT)\\WAStickersThirdParty\\Stickers\\Memes",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.avinoam.wasticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
